@@ -2,7 +2,7 @@
 
 **Every personal anecdote Raymond "Red" Reddington tells across 10 seasons of *The Blacklist* — extracted, geocoded, and visualized.**
 
-👉 **[Live demo](https://YOUR_USERNAME.github.io/reddingtons-world/)**
+👉 **[Live demo](https://thiev980.github.io/reddingtons-world/)**
 
 ![Preview](preview.png)
 
