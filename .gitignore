@@ -1,0 +1,19 @@
+# Data files (not committed — too large / generated)
+*.csv
+*.json
+!package.json
+transcripts/
+srt_files/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
